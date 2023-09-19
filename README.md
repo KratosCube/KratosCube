@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Alt](https://repobeats.axiom.co/api/embed/0781ad6dd85990b7d3c5641467b6b35a2e0ef9c9.svg "Repobeats analytics image")
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kratoscube_count=5&theme=tokyonight)]()
