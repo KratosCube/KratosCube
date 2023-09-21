@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![Alt](https://repobeats.axiom.co/api/embed/0781ad6dd85990b7d3c5641467b6b35a2e0ef9c9.svg "Repobeats analytics image")
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kratoscube&langs_count=5&theme=tokyonight)]()
-![](https://raw.githubusercontent.com/KratosCube/github-stats/master/generated/languages.svg#gh-dark-mode-only)
